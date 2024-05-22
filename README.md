@@ -1,5 +1,4 @@
 ![MasterHead](https://i.pinimg.com/originals/8e/75/2c/8e752cf446947d3d01c0eaaf9e1504e2.gif)
-<h1 align="left">Hi 👋, I'm Sharmin Akter</h1>
 <h3 align="left">I am just a student and happy to learn!</h3>
 
 - 🌱 I’m currently learning **python**
