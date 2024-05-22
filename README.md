@@ -1,7 +1,6 @@
-[![MasterHead](https://i.pinimg.com/originals/8e/75/2c/8e752cf446947d3d01c0eaaf9e1504e2.gif)](sharminscloud)
+[![MasterHead](https://i.pinimg.com/originals/8e/75/2c/8e752cf446947d3d01c0eaaf9e1504e2.gif)]
 <h1 align="center">Hi 👋, I'm Sharmin Akter</h1>
 <h3 align="center">I am just a student and happy to learn!</h3>
-<img align="right" alt="Coding" width="400" src=“https://i.pinimg.com/originals/8e/75/2c/8e752cf446947d3d01c0eaaf9e1504e2.gif”>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharminscloud&label=Profile%20views&color=0e75b6&style=flat" alt="sharminscloud" /> </p>
 
 - 🌱 I’m currently learning **python**
