@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **python**
 
-- 📝 I wrote a small article on [https://digestknowledge.com/knowledgebase/exploring-the-longest-sea-beach](https://digestknowledge.com/knowledgebase/exploring-the-longest-sea-beach)
+- 📝 A small article [https://digestknowledge.com/knowledgebase/exploring-the-longest-sea-beach](https://digestknowledge.com/knowledgebase/exploring-the-longest-sea-beach)
 
 - 📫 How to reach me **sharminaktereducation@gmail.com**
 
