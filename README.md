@@ -2,6 +2,8 @@
 <h3 align="left">I am just a student and happy to learn!</h3>
 
 - 🌱 I’m currently learning **python**
+  
+- 🔗 [https://www.linkedin.com/in/sharminscloud/](https://www.linkedin.com/in/sharminscloud/)
 
 - 📝 A small article [https://digestknowledge.com/knowledgebase/exploring-the-longest-sea-beach](https://digestknowledge.com/knowledgebase/exploring-the-longest-sea-beach)
 
