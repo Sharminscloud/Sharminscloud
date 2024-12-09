@@ -9,7 +9,7 @@
   
   **sharminaktereducation@gmail.com**
   
-  🔗 [https://www.linkedin.com/in/sharminscloud/](https://www.linkedin.com/in/sharminscloud/)
+  [https://www.linkedin.com/in/sharminscloud/](https://www.linkedin.com/in/sharminscloud/)
 
   
 
