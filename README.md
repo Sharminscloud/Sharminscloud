@@ -3,11 +3,15 @@
 
 - 🌱 I’m currently learning **python**
   
-- 🔗 [https://www.linkedin.com/in/sharminscloud/](https://www.linkedin.com/in/sharminscloud/)
-
 - 📝 A small article [https://digestknowledge.com/knowledgebase/exploring-the-longest-sea-beach](https://digestknowledge.com/knowledgebase/exploring-the-longest-sea-beach)
 
-- 📫 How to reach me **sharminaktereducation@gmail.com**
+- 📫 How to reach me
+- 
+  **sharminaktereducation@gmail.com**
+  
+- 🔗 [https://www.linkedin.com/in/sharminscloud/](https://www.linkedin.com/in/sharminscloud/)
+
+  
 
 
 <p align="left">
