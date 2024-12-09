@@ -5,11 +5,11 @@
   
 - 📝 A small article [https://digestknowledge.com/knowledgebase/exploring-the-longest-sea-beach](https://digestknowledge.com/knowledgebase/exploring-the-longest-sea-beach)
 
-- 📫 How to reach me
-- 
+- 📫 How to reach me:
+  
   **sharminaktereducation@gmail.com**
   
-- 🔗 [https://www.linkedin.com/in/sharminscloud/](https://www.linkedin.com/in/sharminscloud/)
+  🔗 [https://www.linkedin.com/in/sharminscloud/](https://www.linkedin.com/in/sharminscloud/)
 
   
 
