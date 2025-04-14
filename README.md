@@ -1,8 +1,7 @@
 ![MasterHead](https://i.pinimg.com/originals/8e/75/2c/8e752cf446947d3d01c0eaaf9e1504e2.gif)
 <h3 align="left">I am just a student and happy to learn!</h3>
 
-- 🌱 I’m currently learning **python**
-  
+- 🌱 I’m currently learning **python, php, java, python, css along whith my BSC studies.**
 - 📝 A small article [https://digestknowledge.com/knowledgebase/exploring-the-longest-sea-beach](https://digestknowledge.com/knowledgebase/exploring-the-longest-sea-beach)
 
 - 📫 How to reach me:
