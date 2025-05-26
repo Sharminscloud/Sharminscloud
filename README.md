@@ -6,8 +6,7 @@
 - ✍️ I occasionally write – check out my article: [Exploring the Longest Sea Beach](https://digestknowledge.com/knowledgebase/exploring-the-longest-sea-beach)
 - 📫 Reach me at: **sharminaktereducation@gmail.com**
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/sharminscloud/)
-- 🔗 Check out my full course portfolio in this GitHub organization:  
-- 👉 [Sharminscloud-BRACUResources](https://github.com/Sharminscloud-BRACUResources)
+- 🔗 Check out my full course portfolio in this GitHub organization: 👉 [Sharminscloud-BRACUResources](https://github.com/Sharminscloud-BRACUResources)
 
 ---
 
