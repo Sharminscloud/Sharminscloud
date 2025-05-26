@@ -1,6 +1,6 @@
 ![MasterHead](https://i.pinimg.com/originals/8e/75/2c/8e752cf446947d3d01c0eaaf9e1504e2.gif)
 
-<h3 align="left">Hi there! 👋 I'm Sharmin, a curious student eager to explore and learn new things!</h3>
+<h3 align="left">Hi there! 👋 I'm Sharmin, a curious student eager to explore and learn new things! I am just a student, happy to learn</h3>
 
 - 🌱 I’m currently learning **Python, PHP, Java, and CSS** alongside my BSc studies.
 - ✍️ I occasionally write – check out my article: [Exploring the Longest Sea Beach](https://digestknowledge.com/knowledgebase/exploring-the-longest-sea-beach)
