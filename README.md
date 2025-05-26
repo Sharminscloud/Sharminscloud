@@ -10,7 +10,7 @@
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/sharminscloud/)
 
 ---
-- <h3 align="left"> 🎓 During my studies at BRAC University, I completed some projects and coursework in CSE. I’ve organized all of these into a dedicated GitHub organization, view all repositories here: 
+- <h3 align="left"> 🎓 During my studies at BRACU, I completed some projects and coursework in CSE. I’ve organized all of these into a dedicated GitHub organization, view all repositories here: 
 - 👉 [Sharminscloud-BRACUResources](https://github.com/orgs/Sharminscloud-BRACUResources/repositories) </h3>
 ---
 
