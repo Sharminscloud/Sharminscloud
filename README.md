@@ -8,7 +8,8 @@
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/sharminscloud/)
 
 ---
-- 🎓 During my studies at BRAC University, I completed a variety of technical projects and coursework in computer science and engineering. I’ve organized all of these into a dedicated GitHub organization, view all repositories here: 👉 [Sharminscloud-BRACUResources](https://github.com/orgs/Sharminscloud-BRACUResources/repositories)
+- 🎓 During my studies at BRAC University, I completed a variety of technical projects and coursework in computer science and engineering. I’ve organized all of these into a dedicated GitHub organization, view all repositories here:
+- 👉 [Sharminscloud-BRACUResources](https://github.com/orgs/Sharminscloud-BRACUResources/repositories)
 ---
 
 <h3 align="left">🛠️ Languages & Tools:</h3>
