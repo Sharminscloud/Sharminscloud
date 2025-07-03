@@ -36,3 +36,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sharminscloud&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sharminscloud&show_icons=true&locale=en" alt="GitHub Stats" /></p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Code-Python-blue" />
+  <img src="https://img.shields.io/badge/Learning-Open%20to%20collaboration-brightgreen" />
+  <img src="https://img.shields.io/badge/Ask%20Me%20About-Web%20Development-orange" />
+</p>
