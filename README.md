@@ -1,44 +1,41 @@
-![MasterHead](https://i.pinimg.com/originals/8e/75/2c/8e752cf446947d3d01c0eaaf9e1504e2.gif)
+<!-- ===================== HERO ===================== -->
 
-<h3 align="left">Hi there! 👋 I'm Sharmin, a curious student eager to explore and learn new things!</h3>
-<h3 align="left">I am just a student, happy to learn!</h3>
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:6D28D9,100:EC4899&text=Sharmin%20Akter&fontColor=FFFFFF&fontSize=46&fontAlignY=38&desc=WordPress%20Developer%20%E2%80%A2%20CSE%20Student%20%E2%80%A2%20Always%20Learning&descAlignY=60&descSize=17&animation=fadeIn" />
+</p>
 
-- 💻 I’m also a **WordPress Developer** with experience completing **10+ website projects**, including business websites, responsive designs, customization, and website improvements.
-- 🌱 I’m currently learning **Python, PHP, Java, and CSS** alongside my BSc studies.
-- ✍️ I occasionally write – check out my article: [Exploring the Longest Sea Beach](https://digestknowledge.com/knowledgebase/exploring-the-longest-sea-beach)
-- 📫 Reach me at: **sharminaktereducation@gmail.com**
-- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/sharminscloud/)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=900&color=C084FC&center=true&vCenter=true&width=650&lines=Building+beautiful+things+for+the+web+%E2%9C%A8;Exploring+code%2C+data+and+technology+%F0%9F%8C%99;Learning+something+new+every+day+%F0%9F%92%AB" />
+</p>
 
----
-
-<h3 align="left">🎓 During my studies at BRACU, I completed several projects and coursework in CSE. I’ve organized all of these into a dedicated GitHub organization. View all repositories here:</h3>
-
-👉 [Sharminscloud-BRACUResources](https://github.com/orgs/Sharminscloud-BRACUResources/repositories)
-
----
-
-<h3 align="left">🛠️ Languages & Tools:</h3>
-
-<p align="left">
-  <a href="https://wordpress.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" alt="WordPress" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
-  </a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sharminscloud&label=Profile%20Views&style=for-the-badge&color=8B5CF6" />
 </p>
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sharminscloud&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
+## ✦ About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sharminscloud&show_icons=true&locale=en" alt="GitHub Stats" /></p>
+Hi! I'm **Sharmin Akter** — a Computer Science student at **BRAC University** and a **WordPress Developer** who enjoys learning, experimenting, and turning ideas into functional digital experiences.
+
+💻 I have completed **10+ WordPress website projects**, working on responsive layouts, business websites, customization, design improvements, and website development.
+
+🎓 Currently pursuing my **BSc in Computer Science** at BRAC University.
+
+🌱 Currently learning and improving my skills in **Python, PHP, Java, CSS, Data Science, and Machine Learning**.
+
+✨ I enjoy exploring the space where **design, technology, creativity, and problem-solving** come together.
+
+> *Curious mind. Quiet progress. Always learning.*
+
+---
+
+## ✦ What I'm Exploring
+
+```text
+Web Development       █████████████████░░░
+WordPress              ██████████████████░░
+Python                 ████████████░░░░░░░░
+Java                   ███████████░░░░░░░░░
+PHP                    ████████████░░░░░░░░
+Data Science           ████████░░░░░░░░░░░░
