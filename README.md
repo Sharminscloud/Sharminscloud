@@ -1,22 +1,28 @@
 ![MasterHead](https://i.pinimg.com/originals/8e/75/2c/8e752cf446947d3d01c0eaaf9e1504e2.gif)
 
 <h3 align="left">Hi there! 👋 I'm Sharmin, a curious student eager to explore and learn new things!</h3>
-<h3 align="left"> I am just a student, happy to learn! </h3>
+<h3 align="left">I am just a student, happy to learn!</h3>
 
-
+- 💻 I’m also a **WordPress Developer** with experience completing **10+ website projects**, including business websites, responsive designs, customization, and website improvements.
 - 🌱 I’m currently learning **Python, PHP, Java, and CSS** alongside my BSc studies.
 - ✍️ I occasionally write – check out my article: [Exploring the Longest Sea Beach](https://digestknowledge.com/knowledgebase/exploring-the-longest-sea-beach)
 - 📫 Reach me at: **sharminaktereducation@gmail.com**
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/sharminscloud/)
 
 ---
-- <h3 align="left"> 🎓 During my studies at BRACU, I completed some projects and coursework in CSE. I’ve organized all of these into a dedicated GitHub organization, view all repositories here: 
-- 👉 [Sharminscloud-BRACUResources](https://github.com/orgs/Sharminscloud-BRACUResources/repositories) </h3>
+
+<h3 align="left">🎓 During my studies at BRACU, I completed several projects and coursework in CSE. I’ve organized all of these into a dedicated GitHub organization. View all repositories here:</h3>
+
+👉 [Sharminscloud-BRACUResources](https://github.com/orgs/Sharminscloud-BRACUResources/repositories)
+
 ---
 
 <h3 align="left">🛠️ Languages & Tools:</h3>
 
 <p align="left">
+  <a href="https://wordpress.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" alt="WordPress" width="40" height="40"/>
+  </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
